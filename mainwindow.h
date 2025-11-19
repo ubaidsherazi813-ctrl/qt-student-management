@@ -8,8 +8,8 @@
 /*
  * ===============================
  *  STUDENT MANAGEMENT SYSTEM
- *  Developed by: Abdul Wasiu t
- *  Roll No: (K25SW-016)
+ *  Developed by: Muhammad Ubaid
+ *  Roll No: (K25SW-022)
  *  Description:
  *  This header file defines the
  *  structure and functions for
@@ -63,3 +63,4 @@ private:
 };
 
 #endif // MAINWINDOW_H
+
